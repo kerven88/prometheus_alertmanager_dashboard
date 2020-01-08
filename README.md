@@ -1,4 +1,4 @@
-# unsee
+# prometheus_alertmanager_dashboard
 
 Alert dashboard for
 [Prometheus Alertmanager](https://prometheus.io/docs/alerting/alertmanager/).
